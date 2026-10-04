@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=e3b341&center=true&vCenter=true&width=600&lines=Retro%20games;Coffee;Exploring" alt="N00bTurf" />
+</p>
 
-<!--
-**N00bTurf/N00bTurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Quietly breaking things since 2019.</h3>
 
-Here are some ideas to get you started:
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>About me</b></summary>
+
+- happier in a terminal than in an IDE
+- currently deep in design systems
+- reading docs more than books lately
+- usually building small tools nobody asked for
+
+</details>
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N00bTurf&layout=compact&langs_count=8&hide_border=true&theme=dracula" alt="Top languages" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=N00bTurf&hide_border=true&theme=react" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-e3b341?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-e3b341?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/React-e3b341?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Vite-e3b341?style=for-the-badge&logoColor=white" alt="Vite" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/N00bTurf"><img src="https://img.shields.io/badge/GitHub-@N00bTurf-e3b341?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/github/followers/N00bTurf?label=Followers&style=social" alt="Followers" />
+</p>
+
+<p align="center"><i>Still learning, still shipping.</i></p>
